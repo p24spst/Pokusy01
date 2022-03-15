@@ -20,6 +20,7 @@ namespace Pokusy01
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("01");
+            MessageBox.Show("0101");
         }
     }
 }
