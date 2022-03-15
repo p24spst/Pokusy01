@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Pokusy01
+namespace Pokusy02
 {
     public partial class Form1 : Form
     {
@@ -19,7 +19,7 @@ namespace Pokusy01
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("01");
+            MessageBox.Show("02");
         }
     }
 }
